@@ -1,5 +1,6 @@
 ## disclaimer:
-- Este tutorial **não é oficial**, eu sou um aluno novo que passou no vetibular agora pra iniciar os estudos na UNIVESP (2ºSEM/2021). Eu vi um comentário no youtube dando mais ou menos essas direções e resolvi criar um passo a passo ilustrado e mais mongol pra ficar mais prático para os próximos (talvez nem seja pra gente fazer esse primeiro acesso ainda)
+- **Talvez nem seja pra gente fazer esse primeiro acesso ainda, eu fiz porque estava na dúvida se minha matrícula tinha dado certo mesmo**
+- Este tutorial **não é oficial**, eu sou um aluno novo que passou no vetibular agora pra iniciar os estudos na UNIVESP (2ºSEM/2021). Eu vi um comentário no youtube dando mais ou menos essas direções e resolvi criar um passo a passo ilustrado e mais mongol pra ficar mais prático para os próximos.
 > link para o vídeo: https://www.youtube.com/watch?v=GIST32MuoX4 (o comentário foi feito pelo @VMMB)
 - Se tiver problemas com sua matrícula, tente contato com a UNIVESP. Infelizmente eu não tenho como resolver seu problema 😕
 - Se esse tutorial não estiver funcionando pra você, não entre em desespero, pode ser que eu esteja falando bobagem, ou que eles estejam com alguma problema no sistema.
