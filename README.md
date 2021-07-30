@@ -44,4 +44,10 @@ Eu já tinha feito meu primeiro acesso sem capturar as telas, então pra fazer e
 
 Espero que o passo a passo não esteja muito errado e que a sua matrícula (e a minha também) tenha sido feita com sucesso
 
+Se quiser corrigir esse tutorial é só estar logado com uma conta do github, acessar o link abaixo, fazer as correções desejadas e submeter a proposta de alteração.
+
+link: https://github.com/itokoskawakami/primeiro-acesso-univesp/edit/main/README.md
+
+Lincoln Makoto Kawakami
+
 O FIM
