@@ -3,6 +3,7 @@
 - Se tiver problemas com sua matrícula, tente contato com a UNIVESP. Infelizmente eu não tenho como resolver seu problema 😕
 - Se esse tutorial não estiver funcionando pra você, não entre em desespero, pode ser que eu esteja falando bobagem, ou que eles estejam com alguma problema no sistema.
 - Pra capturar estas imagens eu tive que fazer o caminho de redefinir minha senha, talvez tenha algum detalhe diferente pra você se for seu primeiro acesso de verdade
+- Então se você puder conferir se os passos estão certos pra mim seria legal
 - Blá, blá, blá...
 
 # primeiro acesso ao AVA da UNIVESP
@@ -44,9 +45,9 @@ Eu já tinha feito meu primeiro acesso sem capturar as telas, então pra fazer e
 
 Espero que o passo a passo não esteja muito errado e que a sua matrícula (e a minha também) tenha sido feita com sucesso
 
-Se quiser corrigir esse tutorial é só estar logado com uma conta do github, acessar o link abaixo, fazer as correções desejadas e submeter a proposta de alteração.
+>Se quiser me apontar algum erro ou ver se alguém apontou um, é só conferir ou deixar um comentário aqui: https://github.com/itokoskawakami/primeiro-acesso-univesp/issues/2 (precisa estar logado no github)
 
-link: https://github.com/itokoskawakami/primeiro-acesso-univesp/edit/main/README.md
+>E se quiser corrigir esse tutorial, é só acessar o próximo link, fazer as correções desejadas e submeter a proposta de alteração. link: https://github.com/itokoskawakami/primeiro-acesso-univesp/edit/main/README.md
 
 Lincoln Makoto Kawakami
 
